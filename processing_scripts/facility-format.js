@@ -1,7 +1,12 @@
+/**
+ * @file: Generates a csv file for use in Socrata to show a stacked bar chart of the number
+ * of scored measurements for each facility in the VA Aspire database.
+ */
+
 var fs = require('fs');
 var _ = require('lodash');
 
-var data = JSON.parse(fs.readFileSync('facility-score-aggregate.json'));
+var data = JSON.parse(fs.readFileSync('../data/aggregate/facility-score-aggregate.json'));
 
 var parsedData = {};
 
@@ -25,4 +30,4 @@ _.forEach(parsedData, function(val) {
   csvData += ',' + ((val['score-5']) ? val['score-5'] : '0') + "\n";
 });
 
-fs.writeFileSync('facility-score-prep.csv', csvData, 'utf8');
+fs.writeFileSync('../data/aggregate/facility-score-prep.csv', csvData, 'utf8');
