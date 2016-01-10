@@ -1,0 +1,1001 @@
+MEASURE,TYPE,HILO,DECS,GOAL,AVG,VISN,FACILITY,LOCATION,VALUE,SCORE,TREND,NOTES
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,1,0,VISN 01,0.23,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,2,0,VISN 02,0.23,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,3,0,VISN 03,0.21,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,4,0,VISN 04,0.1,4,0,value within 10% of aspirational goal; 3 of 8 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,5,0,VISN 05,0.24,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,6,0,VISN 06,0.22,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,11,0,VISN 11,0.36,4,0,value within 10% of aspirational goal; 3 of 7 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,12,0,VISN 12,0.13,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,15,0,VISN 15,0.04,4,0,value within 10% of aspirational goal; 6 of 8 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,16,0,VISN 16,0.25,4,0,value within 10% of aspirational goal; 1 of 9 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,17,0,VISN 17,0.16,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,18,0,VISN 18,0.05,4,0,value within 10% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,19,0,VISN 19,0.16,4,0,value within 10% of aspirational goal; 2 of 6 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,20,0,VISN 20,0.03,4,0,value within 10% of aspirational goal; 3 of 5 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,21,0,VISN 21,0.22,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,22,0,VISN 22,0.3,4,0,value within 10% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,23,0,VISN 23,0.06,4,0,value within 10% of aspirational goal; 6 of 8 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,7,0,VISN 07,0.26,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,8,0,VISN 08,0.23,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,9,0,VISN 09,0.14,4,0,value within 10% of aspirational goal; 2 of 7 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - MRSA infection rate,outcomes,lower,2,0,0.1992,10,0,VISN 10,0.25,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,1,0,VISN 01,2.33,2,0,value within 30% of aspirational goal; 0 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,2,0,VISN 02,1.24,3,1,value within 20% of aspirational goal; 0 of 1 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,3,0,VISN 03,0.78,4,1,value within 10% of aspirational goal; 1 of 1 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,4,0,VISN 04,2.04,3,1,value within 20% of aspirational goal; 0 of 1 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,5,0,VISN 05,1.12,3,1,value within 20% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,6,0,VISN 06,2.05,3,1,value within 20% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,11,0,VISN 11,1.89,3,0,value within 20% of aspirational goal; 1 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,12,0,VISN 12,0.91,4,1,value within 10% of aspirational goal; 0 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,15,0,VISN 15,0.87,4,0,value within 10% of aspirational goal; 1 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,16,0,VISN 16,1.76,3,0,value within 20% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,17,0,VISN 17,0.71,4,0,value within 10% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,18,0,VISN 18,0.71,4,0,value within 10% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,19,0,VISN 19,0,5,1,value meets or exceeds aspirational goal; 1 of 1 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,20,0,VISN 20,2.96,2,0,value within 30% of aspirational goal; 0 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,21,0,VISN 21,2.47,2,-1,value within 30% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,22,0,VISN 22,2.3,2,0,value within 30% of aspirational goal; 1 of 4 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,23,0,VISN 23,0.78,4,1,value within 10% of aspirational goal; 0 of 1 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,7,0,VISN 07,1.41,3,0,value within 20% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,8,0,VISN 08,1.01,4,0,value within 10% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,9,0,VISN 09,1.12,3,-1,value within 20% of aspirational goal; 2 of 5 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - VAP infection rate,outcomes,lower,2,0,1.4576,10,0,VISN 10,1.5,3,0,value within 20% of aspirational goal; 0 of 1 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,1,0,VISN 01,0.47,4,1,value within 10% of aspirational goal; 1 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,2,0,VISN 02,1.41,3,0,value within 20% of aspirational goal; 0 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,3,0,VISN 03,1.53,3,-1,value within 20% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,4,0,VISN 04,1.36,3,0,value within 20% of aspirational goal; 0 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,5,0,VISN 05,1.7,3,0,value within 20% of aspirational goal; 0 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,6,0,VISN 06,1.89,3,0,value within 20% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,11,0,VISN 11,1.06,3,-1,value within 20% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,12,0,VISN 12,0.81,4,0,value within 10% of aspirational goal; 1 of 4 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,15,0,VISN 15,0.97,4,1,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,16,0,VISN 16,1.23,3,0,value within 20% of aspirational goal; 1 of 4 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,17,0,VISN 17,1.11,3,-1,value within 20% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,18,0,VISN 18,0.44,4,1,value within 10% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,19,0,VISN 19,0.61,4,0,value within 10% of aspirational goal; 1 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,20,0,VISN 20,0.47,4,0,value within 10% of aspirational goal; 0 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,21,0,VISN 21,1.02,4,1,value within 10% of aspirational goal; 2 of 3 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,22,0,VISN 22,1.74,3,1,value within 20% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,23,0,VISN 23,0.19,4,0,value within 10% of aspirational goal; 1 of 2 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,7,0,VISN 07,1.62,3,-1,value within 20% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,8,0,VISN 08,1.29,3,0,value within 20% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,9,0,VISN 09,0.5,4,1,value within 10% of aspirational goal; 2 of 6 facilities meet aspirational goal; 
+Safety - Healthcare associated infections - CLAB infection rate,outcomes,lower,2,0,1.101,10,0,VISN 10,0.55,4,0,value within 10% of aspirational goal; 1 of 2 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,1,0,VISN 01,103.89,5,0,value meets or exceeds aspirational goal; 4 of 5 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,2,0,VISN 02,101.79,4,0,value within 10% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,3,0,VISN 03,101.79,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,4,0,VISN 04,102.84,4,0,value within 10% of aspirational goal; 2 of 6 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,5,0,VISN 05,101.79,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,6,0,VISN 06,102.84,4,0,value within 10% of aspirational goal; 3 of 6 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,11,0,VISN 11,102.84,4,0,value within 10% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,12,0,VISN 12,102.84,4,-1,value within 10% of aspirational goal; 3 of 5 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,15,0,VISN 15,102.84,4,0,value within 10% of aspirational goal; 2 of 6 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,16,0,VISN 16,103.89,5,0,value meets or exceeds aspirational goal; 7 of 8 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,17,0,VISN 17,102.84,4,0,value within 10% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,18,0,VISN 18,101.79,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,19,0,VISN 19,103.89,5,1,value meets or exceeds aspirational goal; 3 of 5 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,20,0,VISN 20,102.84,4,-1,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,21,0,VISN 21,102.84,4,0,value within 10% of aspirational goal; 2 of 5 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,22,0,VISN 22,103.89,5,0,value meets or exceeds aspirational goal; 3 of 5 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,23,0,VISN 23,103.89,5,1,value meets or exceeds aspirational goal; 6 of 8 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,7,0,VISN 07,102.84,4,-1,value within 10% of aspirational goal; 3 of 5 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,8,0,VISN 08,102.84,4,0,value within 10% of aspirational goal; 2 of 7 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,9,0,VISN 09,102.84,4,0,value within 10% of aspirational goal; 4 of 7 facilities meet aspirational goal; 
+Safety - Surgical Care Improvement Project,process,higher,0,99,0,10,0,VISN 10,103.89,5,1,value meets or exceeds aspirational goal; 2 of 3 facilities meet aspirational goal; 
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,1,0,VISN 01,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,2,0,VISN 02,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,3,0,VISN 03,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,4,0,VISN 04,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,5,0,VISN 05,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,6,0,VISN 06,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,11,0,VISN 11,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,12,0,VISN 12,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,15,0,VISN 15,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,16,0,VISN 16,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,17,0,VISN 17,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,18,0,VISN 18,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,19,0,VISN 19,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,20,0,VISN 20,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,21,0,VISN 21,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,22,0,VISN 22,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,23,0,VISN 23,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,7,0,VISN 07,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,8,0,VISN 08,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,9,0,VISN 09,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Hospital acquired pressure ulcer rate,outcomes,lower,2,,0,10,0,VISN 10,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Safety - Incorrect Surgery,process,lower,0,,0,1,0,VISN 01,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,2,0,VISN 02,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,3,0,VISN 03,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,4,0,VISN 04,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,5,0,VISN 05,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,6,0,VISN 06,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,11,0,VISN 11,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,12,0,VISN 12,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,15,0,VISN 15,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,16,0,VISN 16,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,17,0,VISN 17,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,18,0,VISN 18,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,19,0,VISN 19,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,20,0,VISN 20,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,21,0,VISN 21,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,22,0,VISN 22,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,23,0,VISN 23,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,7,0,VISN 07,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,8,0,VISN 08,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,9,0,VISN 09,0,5,0,value meets or exceeds aspirational goal; 
+Safety - Incorrect Surgery,process,lower,0,,0,10,0,VISN 10,0,5,0,value meets or exceeds aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,1,0,VISN 01,101.79,4,0,value within 10% of aspirational goal; 3 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,2,0,VISN 02,101.79,4,0,value within 10% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,3,0,VISN 03,101.79,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,4,0,VISN 04,102.84,5,0,value meets or exceeds aspirational goal; 5 of 10 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,5,0,VISN 05,99.69,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,6,0,VISN 06,100.74,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,11,0,VISN 11,102.84,5,0,value meets or exceeds aspirational goal; 5 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,12,0,VISN 12,100.74,4,0,value within 10% of aspirational goal; 3 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,15,0,VISN 15,101.79,4,0,value within 10% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,16,0,VISN 16,100.74,4,0,value within 10% of aspirational goal; 3 of 10 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,17,0,VISN 17,100.74,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,18,0,VISN 18,100.74,4,0,value within 10% of aspirational goal; 2 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,19,0,VISN 19,100.74,4,0,value within 10% of aspirational goal; 3 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,20,0,VISN 20,100.74,4,0,value within 10% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,21,0,VISN 21,101.79,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,22,0,VISN 22,100.74,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,23,0,VISN 23,101.79,4,0,value within 10% of aspirational goal; 6 of 9 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,7,0,VISN 07,100.74,4,0,value within 10% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,8,0,VISN 08,101.79,4,0,value within 10% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,9,0,VISN 09,102.84,5,1,value meets or exceeds aspirational goal; 5 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite behavioral health screening,process,higher,0,98,0,10,0,VISN 10,100.74,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,1,0,VISN 01,94.45,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,2,0,VISN 02,93.4,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,3,0,VISN 03,94.45,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,4,0,VISN 04,94.45,4,0,value within 10% of aspirational goal; 0 of 10 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,5,0,VISN 05,94.45,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,6,0,VISN 06,93.4,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,11,0,VISN 11,94.45,4,0,value within 10% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,12,0,VISN 12,93.4,4,0,value within 10% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,15,0,VISN 15,94.45,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,16,0,VISN 16,93.4,4,0,value within 10% of aspirational goal; 0 of 10 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,17,0,VISN 17,93.4,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,18,0,VISN 18,92.35,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,19,0,VISN 19,94.45,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,20,0,VISN 20,92.35,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,21,0,VISN 21,94.45,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,22,0,VISN 22,93.4,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,23,0,VISN 23,94.45,4,0,value within 10% of aspirational goal; 0 of 9 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,7,0,VISN 07,94.45,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,8,0,VISN 08,93.4,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,9,0,VISN 09,92.35,4,0,value within 10% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Composite diabetes,process,higher,0,98,0,10,0,VISN 10,94.45,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,1,0,VISN 01,82.9,4,0,value within 10% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,2,0,VISN 02,83.95,4,0,value within 10% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,3,0,VISN 03,85,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,4,0,VISN 04,85,4,0,value within 10% of aspirational goal; 2 of 10 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,5,0,VISN 05,83.95,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,6,0,VISN 06,82.9,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,11,0,VISN 11,82.9,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,12,0,VISN 12,83.95,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,15,0,VISN 15,82.9,4,0,value within 10% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,16,0,VISN 16,78.71,3,0,value within 20% of aspirational goal; 0 of 10 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,17,0,VISN 17,80.8,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,18,0,VISN 18,80.8,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,19,0,VISN 19,83.95,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,20,0,VISN 20,78.71,3,0,value within 20% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,21,0,VISN 21,82.9,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,22,0,VISN 22,80.8,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,23,0,VISN 23,86.05,4,0,value within 10% of aspirational goal; 0 of 9 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,7,0,VISN 07,83.95,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,8,0,VISN 08,80.8,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,9,0,VISN 09,80.8,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Diabetes - Blood pressure less than 140/90 (dm),process,higher,0,85,0,10,0,VISN 10,83.95,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,1,0,VISN 01,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,2,0,VISN 02,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,3,0,VISN 03,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,4,0,VISN 04,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,5,0,VISN 05,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,6,0,VISN 06,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,11,0,VISN 11,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,12,0,VISN 12,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,15,0,VISN 15,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,16,0,VISN 16,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,17,0,VISN 17,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,18,0,VISN 18,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,19,0,VISN 19,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,20,0,VISN 20,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,21,0,VISN 21,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,22,0,VISN 22,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,23,0,VISN 23,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,7,0,VISN 07,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,8,0,VISN 08,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,9,0,VISN 09,,0,,no data available; 
+Effectiveness - Diabetes - HbA1 GT 9 or not done in past year,process,lower,0,10,0,10,0,VISN 10,,0,,no data available; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,1,0,VISN 01,91.3,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,2,0,VISN 02,88.15,5,0,value meets or exceeds aspirational goal; 4 of 5 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,3,0,VISN 03,90.25,5,0,value meets or exceeds aspirational goal; 6 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,4,0,VISN 04,89.2,5,0,value meets or exceeds aspirational goal; 10 of 10 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,5,0,VISN 05,91.3,5,0,value meets or exceeds aspirational goal; 3 of 3 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,6,0,VISN 06,90.25,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,11,0,VISN 11,90.25,5,0,value meets or exceeds aspirational goal; 7 of 7 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,12,0,VISN 12,92.35,5,0,value meets or exceeds aspirational goal; 7 of 7 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,15,0,VISN 15,89.2,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,16,0,VISN 16,89.2,5,0,value meets or exceeds aspirational goal; 10 of 10 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,17,0,VISN 17,91.3,5,0,value meets or exceeds aspirational goal; 3 of 3 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,18,0,VISN 18,86.05,5,0,value meets or exceeds aspirational goal; 6 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,19,0,VISN 19,87.1,5,0,value meets or exceeds aspirational goal; 6 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,20,0,VISN 20,89.2,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,21,0,VISN 21,91.3,5,0,value meets or exceeds aspirational goal; 6 of 6 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,22,0,VISN 22,91.3,5,0,value meets or exceeds aspirational goal; 5 of 5 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,23,0,VISN 23,91.3,5,0,value meets or exceeds aspirational goal; 9 of 9 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,7,0,VISN 07,90.25,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,8,0,VISN 08,90.25,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,9,0,VISN 09,86.05,5,0,value meets or exceeds aspirational goal; 7 of 7 facilities meet aspirational goal; 
+Effectiveness - Diabetes - LDL-C less than 100 (diabetes),process,higher,0,75,0,10,0,VISN 10,91.3,5,0,value meets or exceeds aspirational goal; 4 of 4 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,1,0,VISN 01,94.45,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,2,0,VISN 02,90.25,5,0,value meets or exceeds aspirational goal; 5 of 5 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,3,0,VISN 03,93.4,5,0,value meets or exceeds aspirational goal; 6 of 6 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,4,0,VISN 04,93.4,5,0,value meets or exceeds aspirational goal; 10 of 10 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,5,0,VISN 05,92.35,5,0,value meets or exceeds aspirational goal; 3 of 3 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,6,0,VISN 06,92.35,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,11,0,VISN 11,93.4,5,0,value meets or exceeds aspirational goal; 7 of 7 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,12,0,VISN 12,93.4,5,0,value meets or exceeds aspirational goal; 7 of 7 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,15,0,VISN 15,91.3,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,16,0,VISN 16,93.4,5,0,value meets or exceeds aspirational goal; 10 of 10 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,17,0,VISN 17,93.4,5,0,value meets or exceeds aspirational goal; 3 of 3 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,18,0,VISN 18,90.25,5,0,value meets or exceeds aspirational goal; 6 of 6 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,19,0,VISN 19,90.25,5,0,value meets or exceeds aspirational goal; 5 of 5 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,20,0,VISN 20,90.25,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,21,0,VISN 21,94.45,5,0,value meets or exceeds aspirational goal; 6 of 6 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,22,0,VISN 22,95.5,5,0,value meets or exceeds aspirational goal; 5 of 5 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,23,0,VISN 23,95.5,5,0,value meets or exceeds aspirational goal; 9 of 9 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,7,0,VISN 07,93.4,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,8,0,VISN 08,94.45,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,9,0,VISN 09,91.3,5,0,value meets or exceeds aspirational goal; 7 of 7 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx),process,higher,0,75,0,10,0,VISN 10,93.4,5,0,value meets or exceeds aspirational goal; 4 of 4 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,1,0,VISN 01,100.74,4,0,value within 10% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,2,0,VISN 02,99.69,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,3,0,VISN 03,100.74,4,0,value within 10% of aspirational goal; 2 of 6 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,4,0,VISN 04,100.74,4,0,value within 10% of aspirational goal; 1 of 10 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,5,0,VISN 05,101.79,4,0,value within 10% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,6,0,VISN 06,99.69,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,11,0,VISN 11,99.69,4,0,value within 10% of aspirational goal; 3 of 7 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,12,0,VISN 12,101.79,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,15,0,VISN 15,101.79,4,0,value within 10% of aspirational goal; 3 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,16,0,VISN 16,101.79,4,0,value within 10% of aspirational goal; 4 of 10 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,17,0,VISN 17,100.74,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,18,0,VISN 18,99.69,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,19,0,VISN 19,97.59,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,20,0,VISN 20,100.74,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,21,0,VISN 21,100.74,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,22,0,VISN 22,100.74,4,0,value within 10% of aspirational goal; 2 of 5 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,23,0,VISN 23,101.79,4,-1,value within 10% of aspirational goal; 7 of 9 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,7,0,VISN 07,100.74,4,0,value within 10% of aspirational goal; 3 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,8,0,VISN 08,102.84,5,0,value meets or exceeds aspirational goal; 3 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,9,0,VISN 09,100.74,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - LDL-C measured (vascular dx),process,higher,0,98,0,10,0,VISN 10,99.69,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,1,0,VISN 01,80.8,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,2,0,VISN 02,78.71,3,-1,value within 20% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,3,0,VISN 03,81.85,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,4,0,VISN 04,81.85,4,0,value within 10% of aspirational goal; 2 of 10 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,5,0,VISN 05,82.9,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,6,0,VISN 06,79.75,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,11,0,VISN 11,78.71,3,-1,value within 20% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,12,0,VISN 12,81.85,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,15,0,VISN 15,80.8,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,16,0,VISN 16,76.61,3,-1,value within 20% of aspirational goal; 0 of 10 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,17,0,VISN 17,80.8,4,1,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,18,0,VISN 18,76.61,3,-1,value within 20% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,19,0,VISN 19,78.71,3,-1,value within 20% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,20,0,VISN 20,77.66,3,0,value within 20% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,21,0,VISN 21,79.75,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,22,0,VISN 22,79.75,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,23,0,VISN 23,80.8,4,0,value within 10% of aspirational goal; 0 of 9 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,7,0,VISN 07,81.85,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,8,0,VISN 08,77.66,3,-1,value within 20% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,9,0,VISN 09,78.71,3,0,value within 20% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN),process,higher,0,84,0,10,0,VISN 10,80.8,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,1,0,VISN 01,88.15,3,0,value within 20% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,2,0,VISN 02,81.85,2,0,value within 30% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,3,0,VISN 03,83.95,3,0,value within 20% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,4,0,VISN 04,81.85,2,-1,value within 30% of aspirational goal; 0 of 10 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,5,0,VISN 05,80.8,2,0,value within 30% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,6,0,VISN 06,90.25,3,0,value within 20% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,11,0,VISN 11,83.95,3,0,value within 20% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,12,0,VISN 12,86.05,3,0,value within 20% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,15,0,VISN 15,89.2,3,0,value within 20% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,16,0,VISN 16,85,3,0,value within 20% of aspirational goal; 0 of 10 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,17,0,VISN 17,85,3,0,value within 20% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,18,0,VISN 18,82.9,2,-1,value within 30% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,19,0,VISN 19,87.1,3,0,value within 20% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,20,0,VISN 20,86.05,3,0,value within 20% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,21,0,VISN 21,83.95,3,0,value within 20% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,22,0,VISN 22,81.85,2,0,value within 30% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,23,0,VISN 23,85,3,0,value within 20% of aspirational goal; 0 of 9 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,7,0,VISN 07,88.15,3,0,value within 20% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,8,0,VISN 08,86.05,3,0,value within 20% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,9,0,VISN 09,87.1,3,0,value within 20% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Prevention - Screening for colorectal cancer,process,higher,0,100,0,10,0,VISN 10,85,3,0,value within 20% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,1,0,VISN 01,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,2,0,VISN 02,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,3,0,VISN 03,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,4,0,VISN 04,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,5,0,VISN 05,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,6,0,VISN 06,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,11,0,VISN 11,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,12,0,VISN 12,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,15,0,VISN 15,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,16,0,VISN 16,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,17,0,VISN 17,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,18,0,VISN 18,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,19,0,VISN 19,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,20,0,VISN 20,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,21,0,VISN 21,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,22,0,VISN 22,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,23,0,VISN 23,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,7,0,VISN 07,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,8,0,VISN 08,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,9,0,VISN 09,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for cervical cancer,process,higher,0,,0,10,0,VISN 10,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,1,0,VISN 01,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,2,0,VISN 02,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,3,0,VISN 03,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,4,0,VISN 04,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,5,0,VISN 05,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,6,0,VISN 06,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,11,0,VISN 11,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,12,0,VISN 12,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,15,0,VISN 15,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,16,0,VISN 16,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,17,0,VISN 17,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,18,0,VISN 18,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,19,0,VISN 19,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,20,0,VISN 20,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,21,0,VISN 21,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,22,0,VISN 22,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,23,0,VISN 23,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,7,0,VISN 07,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,8,0,VISN 08,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,9,0,VISN 09,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Women screened for breast cancer,process,higher,0,,0,10,0,VISN 10,,0,,This measure has been replaced by a newer measure beginning in FY 2014.
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,1,0,VISN 01,98.64,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,2,0,VISN 02,98.64,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,3,0,VISN 03,96.54,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,4,0,VISN 04,98.64,4,0,value within 10% of aspirational goal; 0 of 10 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,5,0,VISN 05,98.64,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,6,0,VISN 06,98.64,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,11,0,VISN 11,97.59,4,0,value within 10% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,12,0,VISN 12,98.64,4,0,value within 10% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,15,0,VISN 15,97.59,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,16,0,VISN 16,97.59,4,0,value within 10% of aspirational goal; 0 of 10 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,17,0,VISN 17,100.74,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,18,0,VISN 18,97.59,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,19,0,VISN 19,97.59,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,20,0,VISN 20,97.59,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,21,0,VISN 21,97.59,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,22,0,VISN 22,97.59,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,23,0,VISN 23,97.59,4,0,value within 10% of aspirational goal; 0 of 9 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,7,0,VISN 07,98.64,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,8,0,VISN 08,98.64,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,9,0,VISN 09,98.64,4,0,value within 10% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Prevention - Pneumococcal pneumonia immunization,process,higher,0,100,0,10,0,VISN 10,98.64,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,1,0,VISN 01,96.54,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,2,0,VISN 02,97.59,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,3,0,VISN 03,99.69,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,4,0,VISN 04,95.5,4,0,value within 10% of aspirational goal; 0 of 10 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,5,0,VISN 05,97.59,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,6,0,VISN 06,100.74,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,11,0,VISN 11,99.69,4,0,value within 10% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,12,0,VISN 12,99.69,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,15,0,VISN 15,100.74,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,16,0,VISN 16,96.54,4,0,value within 10% of aspirational goal; 0 of 10 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,17,0,VISN 17,98.64,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,18,0,VISN 18,98.64,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,19,0,VISN 19,96.54,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,20,0,VISN 20,98.64,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,21,0,VISN 21,99.69,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,22,0,VISN 22,94.45,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,23,0,VISN 23,99.69,4,0,value within 10% of aspirational goal; 0 of 9 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,7,0,VISN 07,100.74,4,0,value within 10% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,8,0,VISN 08,99.69,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,9,0,VISN 09,98.64,4,0,value within 10% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Prevention - Obese patients offered weight mgmt,process,higher,0,100,0,10,0,VISN 10,99.69,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,1,0,VISN 01,98.64,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,2,0,VISN 02,102.84,4,0,value within 10% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,3,0,VISN 03,101.79,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,4,0,VISN 04,99.69,4,0,value within 10% of aspirational goal; 2 of 10 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,5,0,VISN 05,101.79,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,6,0,VISN 06,100.74,4,0,value within 10% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,11,0,VISN 11,100.74,4,0,value within 10% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,12,0,VISN 12,100.74,4,0,value within 10% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,15,0,VISN 15,99.69,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,16,0,VISN 16,98.64,4,0,value within 10% of aspirational goal; 0 of 10 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,17,0,VISN 17,100.74,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,18,0,VISN 18,94.45,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,19,0,VISN 19,101.79,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,20,0,VISN 20,98.64,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,21,0,VISN 21,101.79,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,22,0,VISN 22,99.69,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,23,0,VISN 23,99.69,4,0,value within 10% of aspirational goal; 2 of 9 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,7,0,VISN 07,100.74,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,8,0,VISN 08,100.74,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,9,0,VISN 09,98.64,4,0,value within 10% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite tobacco,process,higher,0,100,0,10,0,VISN 10,101.79,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,1,0,VISN 01,101.79,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,2,0,VISN 02,102.84,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,3,0,VISN 03,103.89,4,0,value within 10% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,4,0,VISN 04,103.89,4,0,value within 10% of aspirational goal; 2 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,5,0,VISN 05,101.79,4,0,value within 10% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,6,0,VISN 06,101.79,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,11,0,VISN 11,103.89,4,0,value within 10% of aspirational goal; 1 of 2 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,12,0,VISN 12,103.89,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,15,0,VISN 15,104.94,5,1,value meets or exceeds aspirational goal; 2 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,16,0,VISN 16,102.84,4,0,value within 10% of aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,17,0,VISN 17,103.89,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,18,0,VISN 18,101.79,4,0,value within 10% of aspirational goal; 1 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,19,0,VISN 19,103.89,4,0,value within 10% of aspirational goal; 1 of 2 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,20,0,VISN 20,103.89,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,21,0,VISN 21,103.89,4,0,value within 10% of aspirational goal; 3 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,22,0,VISN 22,103.89,4,0,value within 10% of aspirational goal; 2 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,23,0,VISN 23,103.89,4,0,value within 10% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,7,0,VISN 07,103.89,4,0,value within 10% of aspirational goal; 1 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,8,0,VISN 08,102.84,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,9,0,VISN 09,102.84,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite acute myocardial infarction (AMI),process,higher,0,100,0,10,0,VISN 10,103.89,4,0,value within 10% of aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,1,0,VISN 01,102.84,4,0,value within 10% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,2,0,VISN 02,102.84,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,3,0,VISN 03,102.84,4,0,value within 10% of aspirational goal; 1 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,4,0,VISN 04,101.79,4,0,value within 10% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,5,0,VISN 05,101.79,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,6,0,VISN 06,103.89,4,0,value within 10% of aspirational goal; 3 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,11,0,VISN 11,102.84,4,0,value within 10% of aspirational goal; 2 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,12,0,VISN 12,103.89,4,0,value within 10% of aspirational goal; 3 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,15,0,VISN 15,100.74,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,16,0,VISN 16,100.74,4,0,value within 10% of aspirational goal; 2 of 9 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,17,0,VISN 17,102.84,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,18,0,VISN 18,98.64,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,19,0,VISN 19,103.89,4,0,value within 10% of aspirational goal; 2 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,20,0,VISN 20,102.84,4,0,value within 10% of aspirational goal; 0 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,21,0,VISN 21,103.89,4,0,value within 10% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,22,0,VISN 22,101.79,4,0,value within 10% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,23,0,VISN 23,101.79,4,0,value within 10% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,7,0,VISN 07,102.84,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,8,0,VISN 08,103.89,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,9,0,VISN 09,102.84,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite heart failure,process,higher,0,100,0,10,0,VISN 10,103.89,4,0,value within 10% of aspirational goal; 1 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,1,0,VISN 01,101.79,4,0,value within 10% of aspirational goal; 2 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,2,0,VISN 02,101.79,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,3,0,VISN 03,102.84,4,0,value within 10% of aspirational goal; 3 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,4,0,VISN 04,102.84,4,0,value within 10% of aspirational goal; 2 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,5,0,VISN 05,100.74,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,6,0,VISN 06,100.74,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,11,0,VISN 11,102.84,4,0,value within 10% of aspirational goal; 3 of 4 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,12,0,VISN 12,102.84,4,0,value within 10% of aspirational goal; 3 of 6 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,15,0,VISN 15,101.79,4,0,value within 10% of aspirational goal; 1 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,16,0,VISN 16,101.79,4,0,value within 10% of aspirational goal; 3 of 9 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,17,0,VISN 17,101.79,4,0,value within 10% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,18,0,VISN 18,101.79,4,0,value within 10% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,19,0,VISN 19,102.84,4,0,value within 10% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,20,0,VISN 20,102.84,4,0,value within 10% of aspirational goal; 2 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,21,0,VISN 21,102.84,4,0,value within 10% of aspirational goal; 2 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,22,0,VISN 22,102.84,4,0,value within 10% of aspirational goal; 2 of 5 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,23,0,VISN 23,102.84,4,0,value within 10% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,7,0,VISN 07,101.79,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,8,0,VISN 08,101.79,4,0,value within 10% of aspirational goal; 2 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,9,0,VISN 09,102.84,4,-1,value within 10% of aspirational goal; 3 of 7 facilities meet aspirational goal; 
+Effectiveness - Composite community acquired pneumonia (CAP),process,higher,0,99,0,10,0,VISN 10,101.79,4,0,value within 10% of aspirational goal; 1 of 4 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,1,0,VISN 01,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,2,0,VISN 02,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,3,0,VISN 03,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,4,0,VISN 04,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,5,0,VISN 05,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,6,0,VISN 06,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,11,0,VISN 11,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,12,0,VISN 12,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,15,0,VISN 15,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,16,0,VISN 16,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,17,0,VISN 17,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,18,0,VISN 18,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,19,0,VISN 19,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,20,0,VISN 20,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,21,0,VISN 21,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,22,0,VISN 22,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,23,0,VISN 23,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,7,0,VISN 07,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,8,0,VISN 08,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,9,0,VISN 09,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - AMI RSMR (see definition),outcomes,lower,2,,0,10,0,VISN 10,,0,,insufficient data is available to calculate this measure
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,1,0,VISN 01,9.12,5,0,value meets or exceeds aspirational goal; 5 of 5 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,2,0,VISN 02,12.06,5,0,value meets or exceeds aspirational goal; 3 of 4 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,3,0,VISN 03,11.27,5,0,value meets or exceeds aspirational goal; 5 of 6 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,4,0,VISN 04,11.17,5,0,value meets or exceeds aspirational goal; 8 of 9 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,5,0,VISN 05,10.65,5,0,value meets or exceeds aspirational goal; 4 of 4 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,6,0,VISN 06,11.42,5,0,value meets or exceeds aspirational goal; 7 of 8 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,11,0,VISN 11,10.19,5,0,value meets or exceeds aspirational goal; 6 of 7 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,12,0,VISN 12,9.97,5,0,value meets or exceeds aspirational goal; 7 of 7 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,15,0,VISN 15,11.61,5,0,value meets or exceeds aspirational goal; 8 of 8 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,16,0,VISN 16,12.14,5,0,value meets or exceeds aspirational goal; 7 of 9 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,17,0,VISN 17,11.43,5,0,value meets or exceeds aspirational goal; 3 of 3 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,18,0,VISN 18,11.81,5,0,value meets or exceeds aspirational goal; 6 of 6 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,19,0,VISN 19,11.89,5,0,value meets or exceeds aspirational goal; 5 of 6 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,20,0,VISN 20,8.77,5,0,value meets or exceeds aspirational goal; 5 of 5 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,21,0,VISN 21,10.87,5,0,value meets or exceeds aspirational goal; 4 of 5 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,22,0,VISN 22,10.66,5,0,value meets or exceeds aspirational goal; 5 of 5 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,23,0,VISN 23,9.91,5,0,value meets or exceeds aspirational goal; 7 of 8 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,7,0,VISN 07,11.67,5,0,value meets or exceeds aspirational goal; 7 of 7 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,8,0,VISN 08,11.27,5,0,value meets or exceeds aspirational goal; 7 of 7 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,9,0,VISN 09,12.7,5,1,value meets or exceeds aspirational goal; 6 of 7 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - Pneumonia RSMR,outcomes,lower,2,12.92,11.1256,10,0,VISN 10,9.95,5,0,value meets or exceeds aspirational goal; 4 of 4 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,1,0,VISN 01,7.55,5,0,value meets or exceeds aspirational goal; 3 of 5 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,2,0,VISN 02,8.63,4,0,value within 10% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,3,0,VISN 03,8.21,5,0,value meets or exceeds aspirational goal; 2 of 6 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,4,0,VISN 04,8.08,5,0,value meets or exceeds aspirational goal; 5 of 9 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,5,0,VISN 05,8.34,5,0,value meets or exceeds aspirational goal; 2 of 4 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,6,0,VISN 06,8.96,4,-1,value within 10% of aspirational goal; 5 of 8 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,11,0,VISN 11,8.67,4,-1,value within 10% of aspirational goal; 5 of 7 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,12,0,VISN 12,8.37,5,0,value meets or exceeds aspirational goal; 4 of 7 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,15,0,VISN 15,9.51,3,-1,value within 20% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,16,0,VISN 16,8.57,4,0,value within 10% of aspirational goal; 5 of 9 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,17,0,VISN 17,7.74,5,0,value meets or exceeds aspirational goal; 1 of 3 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,18,0,VISN 18,9.77,3,1,value within 20% of aspirational goal; 2 of 6 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,19,0,VISN 19,8.53,4,0,value within 10% of aspirational goal; 4 of 6 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,20,0,VISN 20,8.21,5,0,value meets or exceeds aspirational goal; 3 of 5 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,21,0,VISN 21,8.87,4,0,value within 10% of aspirational goal; 2 of 5 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,22,0,VISN 22,8.12,5,0,value meets or exceeds aspirational goal; 3 of 5 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,23,0,VISN 23,8.9,4,0,value within 10% of aspirational goal; 3 of 8 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,7,0,VISN 07,9.39,4,0,value within 10% of aspirational goal; 1 of 7 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,8,0,VISN 08,9.2,4,0,value within 10% of aspirational goal; 5 of 7 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,9,0,VISN 09,8.79,4,-1,value within 10% of aspirational goal; 3 of 7 facilities meet aspirational goal; 
+Effectiveness - Mortality Outcomes - CHF RSMR,outcomes,lower,2,8.12,8.6405,10,0,VISN 10,8.05,5,0,value meets or exceeds aspirational goal; 3 of 4 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,1,0,VISN 01,14.9,2,0,value within 30% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,2,0,VISN 02,14.8,2,1,value within 30% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,3,0,VISN 03,15.22,1,0,value more than 30% away from aspirational goal; 0 of 6 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,4,0,VISN 04,12.91,3,0,value within 20% of aspirational goal; 5 of 9 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,5,0,VISN 05,14.69,2,0,value within 30% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,6,0,VISN 06,12.17,4,0,value within 10% of aspirational goal; 3 of 8 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,11,0,VISN 11,13.54,3,0,value within 20% of aspirational goal; 3 of 7 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,12,0,VISN 12,15.64,1,0,value more than 30% away from aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,15,0,VISN 15,13.96,2,0,value within 30% of aspirational goal; 0 of 8 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,16,0,VISN 16,14.69,2,0,value within 30% of aspirational goal; 1 of 9 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,17,0,VISN 17,13.75,3,1,value within 20% of aspirational goal; 0 of 3 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,18,0,VISN 18,12.8,3,0,value within 20% of aspirational goal; 2 of 5 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,19,0,VISN 19,12.17,4,0,value within 10% of aspirational goal; 2 of 6 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,20,0,VISN 20,13.12,3,-1,value within 20% of aspirational goal; 2 of 5 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,21,0,VISN 21,13.96,2,-1,value within 30% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,22,0,VISN 22,13.64,3,1,value within 20% of aspirational goal; 1 of 5 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,23,0,VISN 23,13.54,3,0,value within 20% of aspirational goal; 2 of 8 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,7,0,VISN 07,12.38,4,1,value within 10% of aspirational goal; 2 of 7 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,8,0,VISN 08,15.53,1,0,value more than 30% away from aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,9,0,VISN 09,14.59,2,1,value within 30% of aspirational goal; 0 of 7 facilities meet aspirational goal; 
+Efficiency - All cause 30-day unadjusted readmission rate,outcomes,lower,1,11,14.0512,10,0,VISN 10,14.17,2,0,value within 30% of aspirational goal; 0 of 4 facilities meet aspirational goal; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,1,0,VISN 01,31.92,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,2,0,VISN 02,26.3,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,3,0,VISN 03,27.97,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,4,0,VISN 04,31.82,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,5,0,VISN 05,35.86,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,6,0,VISN 06,28.46,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,11,0,VISN 11,26.21,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,12,0,VISN 12,35.13,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,15,0,VISN 15,31.07,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,16,0,VISN 16,31.5,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,17,0,VISN 17,32.43,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,18,0,VISN 18,33.41,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,19,0,VISN 19,28.23,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,20,0,VISN 20,36.84,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,21,0,VISN 21,31.07,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,22,0,VISN 22,33,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,23,0,VISN 23,26.7,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,7,0,VISN 07,28.32,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,8,0,VISN 08,33.15,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,9,0,VISN 09,32.89,0,,no data available; 
+Efficiency - Ambulatory Care Sensitive Conditions (ACSC),outcomes,lower,1,,31.112,10,0,VISN 10,29.1,0,,no data available; 
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,1,0,VISN 01,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,2,0,VISN 02,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,3,0,VISN 03,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,4,0,VISN 04,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,5,0,VISN 05,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,6,0,VISN 06,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,11,0,VISN 11,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,12,0,VISN 12,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,15,0,VISN 15,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,16,0,VISN 16,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,17,0,VISN 17,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,18,0,VISN 18,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,19,0,VISN 19,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,20,0,VISN 20,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,21,0,VISN 21,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,22,0,VISN 22,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,23,0,VISN 23,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,7,0,VISN 07,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,8,0,VISN 08,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,9,0,VISN 09,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting outpatient care quickly,process,higher,0,,0,10,0,VISN 10,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,1,0,VISN 01,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,2,0,VISN 02,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,3,0,VISN 03,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,4,0,VISN 04,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,5,0,VISN 05,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,6,0,VISN 06,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,11,0,VISN 11,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,12,0,VISN 12,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,15,0,VISN 15,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,16,0,VISN 16,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,17,0,VISN 17,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,18,0,VISN 18,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,19,0,VISN 19,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,20,0,VISN 20,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,21,0,VISN 21,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,22,0,VISN 22,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,23,0,VISN 23,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,7,0,VISN 07,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,8,0,VISN 08,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,9,0,VISN 09,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Outpatient responsiveness - Getting needed outpatient care,process,higher,0,,0,10,0,VISN 10,,0,,Outpatient responsiveness data is not available due to survey changes
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,1,0,VISN 01,66.63,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,2,0,VISN 02,64.96,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,3,0,VISN 03,55.43,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,4,0,VISN 04,65.68,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,5,0,VISN 05,53.52,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,6,0,VISN 06,62.69,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,11,0,VISN 11,66.58,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,12,0,VISN 12,65.39,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,15,0,VISN 15,65.61,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,16,0,VISN 16,64.45,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,17,0,VISN 17,63.16,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,18,0,VISN 18,61.91,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,19,0,VISN 19,69.49,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,20,0,VISN 20,63.87,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,21,0,VISN 21,63.18,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,22,0,VISN 22,59.21,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,23,0,VISN 23,67.62,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,7,0,VISN 07,63.86,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,8,0,VISN 08,59.66,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,9,0,VISN 09,65.93,0,,no data available; 
+Timeliness - Inpatient responsiveness,process,higher,0,75,0,10,0,VISN 10,64.63,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,1,0,VISN 01,75.56,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,2,0,VISN 02,75.56,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,3,0,VISN 03,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,4,0,VISN 04,78.71,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,5,0,VISN 05,66.11,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,6,0,VISN 06,71.36,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,11,0,VISN 11,78.71,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,12,0,VISN 12,80.8,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,15,0,VISN 15,75.56,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,16,0,VISN 16,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,17,0,VISN 17,72.41,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,18,0,VISN 18,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,19,0,VISN 19,74.51,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,20,0,VISN 20,77.66,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,21,0,VISN 21,79.75,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,22,0,VISN 22,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,23,0,VISN 23,80.8,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,7,0,VISN 07,75.56,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,8,0,VISN 08,75.56,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,9,0,VISN 09,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment,process,higher,0,82,0,10,0,VISN 10,74.51,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,1,0,VISN 01,82.9,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,2,0,VISN 02,77.66,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,3,0,VISN 03,81.85,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,4,0,VISN 04,81.85,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,5,0,VISN 05,77.66,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,6,0,VISN 06,80.8,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,11,0,VISN 11,79.75,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,12,0,VISN 12,80.8,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,15,0,VISN 15,77.66,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,16,0,VISN 16,79.75,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,17,0,VISN 17,80.8,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,18,0,VISN 18,77.66,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,19,0,VISN 19,80.8,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,20,0,VISN 20,82.9,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,21,0,VISN 21,81.85,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,22,0,VISN 22,78.71,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,23,0,VISN 23,77.66,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,7,0,VISN 07,82.9,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,8,0,VISN 08,80.8,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,9,0,VISN 09,80.8,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Doctors,process,higher,0,87,0,10,0,VISN 10,79.75,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,1,0,VISN 01,78.71,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,2,0,VISN 02,77.66,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,3,0,VISN 03,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,4,0,VISN 04,78.71,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,5,0,VISN 05,70.31,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,6,0,VISN 06,74.51,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,11,0,VISN 11,77.66,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,12,0,VISN 12,78.71,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,15,0,VISN 15,74.51,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,16,0,VISN 16,74.51,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,17,0,VISN 17,75.56,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,18,0,VISN 18,74.51,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,19,0,VISN 19,79.75,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,20,0,VISN 20,77.66,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,21,0,VISN 21,75.56,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,22,0,VISN 22,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,23,0,VISN 23,77.66,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,7,0,VISN 07,76.61,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,8,0,VISN 08,75.56,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,9,0,VISN 09,78.71,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication with Nurses,process,higher,0,83,0,10,0,VISN 10,78.71,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,1,0,VISN 01,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,2,0,VISN 02,68.21,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,3,0,VISN 03,60.87,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,4,0,VISN 04,68.21,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,5,0,VISN 05,61.91,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,6,0,VISN 06,68.21,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,11,0,VISN 11,68.21,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,12,0,VISN 12,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,15,0,VISN 15,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,16,0,VISN 16,66.11,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,17,0,VISN 17,66.11,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,18,0,VISN 18,68.21,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,19,0,VISN 19,72.41,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,20,0,VISN 20,69.26,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,21,0,VISN 21,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,22,0,VISN 22,65.06,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,23,0,VISN 23,70.31,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,7,0,VISN 07,66.11,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,8,0,VISN 08,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,9,0,VISN 09,69.26,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Communication About Medication,process,higher,0,68,0,10,0,VISN 10,68.21,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,1,0,VISN 01,91.3,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,2,0,VISN 02,90.25,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,3,0,VISN 03,83.95,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,4,0,VISN 04,91.3,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,5,0,VISN 05,87.1,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,6,0,VISN 06,89.2,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,11,0,VISN 11,89.2,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,12,0,VISN 12,89.2,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,15,0,VISN 15,91.3,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,16,0,VISN 16,88.15,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,17,0,VISN 17,87.1,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,18,0,VISN 18,88.15,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,19,0,VISN 19,90.25,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,20,0,VISN 20,90.25,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,21,0,VISN 21,89.2,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,22,0,VISN 22,88.15,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,23,0,VISN 23,92.35,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,7,0,VISN 07,87.1,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,8,0,VISN 08,89.2,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,9,0,VISN 09,89.2,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Discharge Information,process,higher,0,87,0,10,0,VISN 10,92.35,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,1,0,VISN 01,66.11,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,2,0,VISN 02,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,3,0,VISN 03,61.91,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,4,0,VISN 04,66.11,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,5,0,VISN 05,62.96,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,6,0,VISN 06,66.11,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,11,0,VISN 11,68.21,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,12,0,VISN 12,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,15,0,VISN 15,65.06,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,16,0,VISN 16,65.06,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,17,0,VISN 17,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,18,0,VISN 18,64.01,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,19,0,VISN 19,68.21,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,20,0,VISN 20,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,21,0,VISN 21,68.21,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,22,0,VISN 22,65.06,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,23,0,VISN 23,68.21,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,7,0,VISN 07,66.11,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,8,0,VISN 08,62.96,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,9,0,VISN 09,66.11,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Pain Management,process,higher,0,76,0,10,0,VISN 10,65.06,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,1,0,VISN 01,49.32,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,2,0,VISN 02,48.27,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,3,0,VISN 03,55.62,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,4,0,VISN 04,55.62,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,5,0,VISN 05,54.57,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,6,0,VISN 06,53.52,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,11,0,VISN 11,59.82,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,12,0,VISN 12,58.77,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,15,0,VISN 15,56.67,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,16,0,VISN 16,59.82,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,17,0,VISN 17,59.82,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,18,0,VISN 18,50.37,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,19,0,VISN 19,55.62,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,20,0,VISN 20,50.37,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,21,0,VISN 21,52.47,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,22,0,VISN 22,46.17,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,23,0,VISN 23,55.62,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,7,0,VISN 07,62.96,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,8,0,VISN 08,56.67,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,9,0,VISN 09,56.67,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment,process,higher,0,71,0,10,0,VISN 10,57.72,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,1,0,VISN 01,75.56,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,2,0,VISN 02,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,3,0,VISN 03,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,4,0,VISN 04,71.36,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,5,0,VISN 05,64.01,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,6,0,VISN 06,71.36,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,11,0,VISN 11,74.51,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,12,0,VISN 12,74.51,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,15,0,VISN 15,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,16,0,VISN 16,72.41,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,17,0,VISN 17,71.36,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,18,0,VISN 18,74.51,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,19,0,VISN 19,71.36,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,20,0,VISN 20,74.51,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,21,0,VISN 21,78.71,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,22,0,VISN 22,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,23,0,VISN 23,76.61,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,7,0,VISN 07,69.26,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,8,0,VISN 08,75.56,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,9,0,VISN 09,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Willingness to Recommend,process,higher,0,82,0,10,0,VISN 10,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,1,0,VISN 01,70.31,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,2,0,VISN 02,70.31,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,3,0,VISN 03,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,4,0,VISN 04,72.41,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,5,0,VISN 05,60.87,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,6,0,VISN 06,67.16,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,11,0,VISN 11,70.31,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,12,0,VISN 12,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,15,0,VISN 15,65.06,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,16,0,VISN 16,70.31,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,17,0,VISN 17,68.21,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,18,0,VISN 18,70.31,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,19,0,VISN 19,69.26,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,20,0,VISN 20,69.26,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,21,0,VISN 21,75.56,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,22,0,VISN 22,69.26,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,23,0,VISN 23,73.46,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,7,0,VISN 07,69.26,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,8,0,VISN 08,72.41,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,9,0,VISN 09,71.36,0,,no data available; 
+Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay,process,higher,0,78,0,10,0,VISN 10,70.31,0,,no data available; 
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,1,0,VISN 01,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,2,0,VISN 02,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,3,0,VISN 03,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,4,0,VISN 04,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,5,0,VISN 05,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,6,0,VISN 06,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,11,0,VISN 11,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,12,0,VISN 12,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,15,0,VISN 15,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,16,0,VISN 16,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,17,0,VISN 17,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,18,0,VISN 18,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,19,0,VISN 19,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,20,0,VISN 20,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,21,0,VISN 21,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,22,0,VISN 22,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,23,0,VISN 23,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,7,0,VISN 07,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,8,0,VISN 08,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,9,0,VISN 09,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate,process,higher,0,,0,10,0,VISN 10,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,1,0,VISN 01,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,2,0,VISN 02,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,3,0,VISN 03,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,4,0,VISN 04,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,5,0,VISN 05,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,6,0,VISN 06,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,11,0,VISN 11,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,12,0,VISN 12,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,15,0,VISN 15,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,16,0,VISN 16,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,17,0,VISN 17,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,18,0,VISN 18,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,19,0,VISN 19,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,20,0,VISN 20,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,21,0,VISN 21,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,22,0,VISN 22,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,23,0,VISN 23,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,7,0,VISN 07,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,8,0,VISN 08,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,9,0,VISN 09,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse,process,higher,0,,0,10,0,VISN 10,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,1,0,VISN 01,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,2,0,VISN 02,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,3,0,VISN 03,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,4,0,VISN 04,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,5,0,VISN 05,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,6,0,VISN 06,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,11,0,VISN 11,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,12,0,VISN 12,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,15,0,VISN 15,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,16,0,VISN 16,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,17,0,VISN 17,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,18,0,VISN 18,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,19,0,VISN 19,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,20,0,VISN 20,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,21,0,VISN 21,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,22,0,VISN 22,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,23,0,VISN 23,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,7,0,VISN 07,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,8,0,VISN 08,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,9,0,VISN 09,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making,process,higher,0,,0,10,0,VISN 10,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,1,0,VISN 01,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,2,0,VISN 02,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,3,0,VISN 03,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,4,0,VISN 04,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,5,0,VISN 05,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,6,0,VISN 06,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,11,0,VISN 11,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,12,0,VISN 12,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,15,0,VISN 15,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,16,0,VISN 16,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,17,0,VISN 17,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,18,0,VISN 18,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,19,0,VISN 19,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,20,0,VISN 20,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,21,0,VISN 21,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,22,0,VISN 22,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,23,0,VISN 23,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,7,0,VISN 07,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,8,0,VISN 08,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,9,0,VISN 09,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist,process,higher,0,,0,10,0,VISN 10,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,1,0,VISN 01,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,2,0,VISN 02,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,3,0,VISN 03,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,4,0,VISN 04,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,5,0,VISN 05,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,6,0,VISN 06,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,11,0,VISN 11,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,12,0,VISN 12,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,15,0,VISN 15,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,16,0,VISN 16,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,17,0,VISN 17,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,18,0,VISN 18,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,19,0,VISN 19,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,20,0,VISN 20,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,21,0,VISN 21,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,22,0,VISN 22,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,23,0,VISN 23,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,7,0,VISN 07,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,8,0,VISN 08,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,9,0,VISN 09,,0,,Outpatient SHEP data is not available due to survey changes
+Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months,process,higher,0,,0,10,0,VISN 10,,0,,Outpatient SHEP data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,1,0,VISN 01,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,2,0,VISN 02,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,3,0,VISN 03,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,4,0,VISN 04,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,5,0,VISN 05,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,6,0,VISN 06,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,11,0,VISN 11,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,12,0,VISN 12,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,15,0,VISN 15,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,16,0,VISN 16,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,17,0,VISN 17,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,18,0,VISN 18,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,19,0,VISN 19,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,20,0,VISN 20,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,21,0,VISN 21,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,22,0,VISN 22,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,23,0,VISN 23,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,7,0,VISN 07,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,8,0,VISN 08,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,9,0,VISN 09,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Behavioral Health,process,,0,,0,10,0,VISN 10,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,1,0,VISN 01,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,2,0,VISN 02,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,3,0,VISN 03,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,4,0,VISN 04,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,5,0,VISN 05,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,6,0,VISN 06,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,11,0,VISN 11,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,12,0,VISN 12,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,15,0,VISN 15,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,16,0,VISN 16,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,17,0,VISN 17,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,18,0,VISN 18,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,19,0,VISN 19,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,20,0,VISN 20,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,21,0,VISN 21,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,22,0,VISN 22,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,23,0,VISN 23,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,7,0,VISN 07,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,8,0,VISN 08,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,9,0,VISN 09,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Diabetes,process,,0,,0,10,0,VISN 10,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,1,0,VISN 01,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,2,0,VISN 02,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,3,0,VISN 03,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,4,0,VISN 04,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,5,0,VISN 05,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,6,0,VISN 06,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,11,0,VISN 11,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,12,0,VISN 12,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,15,0,VISN 15,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,16,0,VISN 16,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,17,0,VISN 17,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,18,0,VISN 18,,0,,Clinical composite data is not available due to survey changes
+Equity - Clinical Composite:White-Nonwhite - Tobacco,process,,0,,0,19,0,VISN 19,,0,,Clinical composite data is not available due to survey changes

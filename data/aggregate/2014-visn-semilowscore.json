@@ -1,0 +1,310 @@
+[ {
+  "trend" : "0",
+  "measure" : "Safety - Healthcare associated infections - VAP infection rate",
+  "hilo" : "lower",
+  "decs" : "2",
+  "location" : "VISN 01",
+  "score" : "2",
+  "type" : "outcomes",
+  "goal" : "0",
+  "visn" : "1",
+  "facility" : "0",
+  "value" : "2.03",
+  "notes" : "value within 30% of aspirational goal; 0 of 1 facilities meet aspirational goal; ",
+  "avg" : "1.28"
+}
+, {
+  "trend" : "-1",
+  "measure" : "Safety - Healthcare associated infections - VAP infection rate",
+  "hilo" : "lower",
+  "decs" : "2",
+  "location" : "VISN 02",
+  "score" : "1",
+  "type" : "outcomes",
+  "goal" : "0",
+  "visn" : "2",
+  "facility" : "0",
+  "value" : "3.66",
+  "notes" : "value more than 30% away from aspirational goal; 1 of 1 facilities meet aspirational goal; ",
+  "avg" : "1.28"
+}
+, {
+  "trend" : "-1",
+  "measure" : "Safety - Healthcare associated infections - VAP infection rate",
+  "hilo" : "lower",
+  "decs" : "2",
+  "location" : "VISN 03",
+  "score" : "2",
+  "type" : "outcomes",
+  "goal" : "0",
+  "visn" : "3",
+  "facility" : "0",
+  "value" : "2.21",
+  "notes" : "value within 30% of aspirational goal; 0 of 1 facilities meet aspirational goal; ",
+  "avg" : "1.28"
+}
+, {
+  "trend" : "-1",
+  "measure" : "Safety - Healthcare associated infections - VAP infection rate",
+  "hilo" : "lower",
+  "decs" : "2",
+  "location" : "VISN 04",
+  "score" : "2",
+  "type" : "outcomes",
+  "goal" : "0",
+  "visn" : "4",
+  "facility" : "0",
+  "value" : "2.33",
+  "notes" : "value within 30% of aspirational goal; 0 of 1 facilities meet aspirational goal; ",
+  "avg" : "1.28"
+}
+, {
+  "trend" : "-1",
+  "measure" : "Safety - Healthcare associated infections - VAP infection rate",
+  "hilo" : "lower",
+  "decs" : "2",
+  "location" : "VISN 05",
+  "score" : "2",
+  "type" : "outcomes",
+  "goal" : "0",
+  "visn" : "5",
+  "facility" : "0",
+  "value" : "2.56",
+  "notes" : "value within 30% of aspirational goal; 1 of 2 facilities meet aspirational goal; ",
+  "avg" : "1.28"
+}
+, {
+  "trend" : "-1",
+  "measure" : "Safety - Healthcare associated infections - VAP infection rate",
+  "hilo" : "lower",
+  "decs" : "2",
+  "location" : "VISN 06",
+  "score" : "2",
+  "type" : "outcomes",
+  "goal" : "0",
+  "visn" : "6",
+  "facility" : "0",
+  "value" : "2.94",
+  "notes" : "value within 30% of aspirational goal; 0 of 2 facilities meet aspirational goal; ",
+  "avg" : "1.28"
+}
+, {
+  "trend" : "-1",
+  "measure" : "Safety - Healthcare associated infections - CLAB infection rate",
+  "hilo" : "lower",
+  "decs" : "2",
+  "location" : "VISN 04",
+  "score" : "2",
+  "type" : "outcomes",
+  "goal" : "0",
+  "visn" : "4",
+  "facility" : "0",
+  "value" : "2.5",
+  "notes" : "value within 30% of aspirational goal; 0 of 1 facilities meet aspirational goal; ",
+  "avg" : "0.95"
+}
+, {
+  "trend" : "0",
+  "measure" : "Effectiveness - Prevention - Screening for colorectal cancer",
+  "hilo" : "higher",
+  "decs" : "0",
+  "location" : "VISN 02",
+  "score" : "2",
+  "type" : "process",
+  "goal" : "100",
+  "visn" : "2",
+  "facility" : "0",
+  "value" : "79",
+  "notes" : "value within 30% of aspirational goal; 0 of 5 facilities meet aspirational goal; "
+}
+, {
+  "trend" : "-1",
+  "measure" : "Effectiveness - Prevention - Screening for colorectal cancer",
+  "hilo" : "higher",
+  "decs" : "0",
+  "location" : "VISN 03",
+  "score" : "2",
+  "type" : "process",
+  "goal" : "100",
+  "visn" : "3",
+  "facility" : "0",
+  "value" : "79",
+  "notes" : "value within 30% of aspirational goal; 0 of 6 facilities meet aspirational goal; "
+}
+, {
+  "trend" : "0",
+  "measure" : "Effectiveness - Prevention - Screening for colorectal cancer",
+  "hilo" : "higher",
+  "decs" : "0",
+  "location" : "VISN 04",
+  "score" : "2",
+  "type" : "process",
+  "goal" : "100",
+  "visn" : "4",
+  "facility" : "0",
+  "value" : "78",
+  "notes" : "value within 30% of aspirational goal; 0 of 10 facilities meet aspirational goal; "
+}
+, {
+  "trend" : "0",
+  "measure" : "Effectiveness - Prevention - Screening for colorectal cancer",
+  "hilo" : "higher",
+  "decs" : "0",
+  "location" : "VISN 05",
+  "score" : "2",
+  "type" : "process",
+  "goal" : "100",
+  "visn" : "5",
+  "facility" : "0",
+  "value" : "78",
+  "notes" : "value within 30% of aspirational goal; 0 of 3 facilities meet aspirational goal; "
+}
+, {
+  "trend" : "-1",
+  "measure" : "Effectiveness - Prevention - Screening for colorectal cancer",
+  "hilo" : "higher",
+  "decs" : "0",
+  "location" : "VISN 21",
+  "score" : "2",
+  "type" : "process",
+  "goal" : "100",
+  "visn" : "21",
+  "facility" : "0",
+  "value" : "79",
+  "notes" : "value within 30% of aspirational goal; 0 of 6 facilities meet aspirational goal; "
+}
+, {
+  "trend" : "0",
+  "measure" : "Effectiveness - Prevention - Screening for colorectal cancer",
+  "hilo" : "higher",
+  "decs" : "0",
+  "location" : "VISN 22",
+  "score" : "2",
+  "type" : "process",
+  "goal" : "100",
+  "visn" : "22",
+  "facility" : "0",
+  "value" : "78",
+  "notes" : "value within 30% of aspirational goal; 0 of 5 facilities meet aspirational goal; "
+}
+, {
+  "trend" : "0",
+  "measure" : "Efficiency - All cause 30-day unadjusted readmission rate",
+  "hilo" : "lower",
+  "decs" : "1",
+  "location" : "VISN 01",
+  "score" : "2",
+  "type" : "outcomes",
+  "goal" : "11",
+  "visn" : "1",
+  "facility" : "0",
+  "value" : "14",
+  "notes" : "value within 30% of aspirational goal; 1 of 5 facilities meet aspirational goal; ",
+  "avg" : "13.3"
+}
+, {
+  "trend" : "-1",
+  "measure" : "Efficiency - All cause 30-day unadjusted readmission rate",
+  "hilo" : "lower",
+  "decs" : "1",
+  "location" : "VISN 02",
+  "score" : "1",
+  "type" : "outcomes",
+  "goal" : "11",
+  "visn" : "2",
+  "facility" : "0",
+  "value" : "14.6",
+  "notes" : "value more than 30% away from aspirational goal; 1 of 4 facilities meet aspirational goal; ",
+  "avg" : "13.3"
+}
+, {
+  "trend" : "0",
+  "measure" : "Efficiency - All cause 30-day unadjusted readmission rate",
+  "hilo" : "lower",
+  "decs" : "1",
+  "location" : "VISN 03",
+  "score" : "1",
+  "type" : "outcomes",
+  "goal" : "11",
+  "visn" : "3",
+  "facility" : "0",
+  "value" : "14.5",
+  "notes" : "value more than 30% away from aspirational goal; 1 of 6 facilities meet aspirational goal; ",
+  "avg" : "13.3"
+}
+, {
+  "trend" : "0",
+  "measure" : "Efficiency - All cause 30-day unadjusted readmission rate",
+  "hilo" : "lower",
+  "decs" : "1",
+  "location" : "VISN 05",
+  "score" : "2",
+  "type" : "outcomes",
+  "goal" : "11",
+  "visn" : "5",
+  "facility" : "0",
+  "value" : "14.3",
+  "notes" : "value within 30% of aspirational goal; 0 of 4 facilities meet aspirational goal; ",
+  "avg" : "13.3"
+}
+, {
+  "trend" : "0",
+  "measure" : "Efficiency - All cause 30-day unadjusted readmission rate",
+  "hilo" : "lower",
+  "decs" : "1",
+  "location" : "VISN 12",
+  "score" : "1",
+  "type" : "outcomes",
+  "goal" : "11",
+  "visn" : "12",
+  "facility" : "0",
+  "value" : "14.8",
+  "notes" : "value more than 30% away from aspirational goal; 1 of 7 facilities meet aspirational goal; ",
+  "avg" : "13.3"
+}
+, {
+  "trend" : "0",
+  "measure" : "Efficiency - All cause 30-day unadjusted readmission rate",
+  "hilo" : "lower",
+  "decs" : "1",
+  "location" : "VISN 16",
+  "score" : "2",
+  "type" : "outcomes",
+  "goal" : "11",
+  "visn" : "16",
+  "facility" : "0",
+  "value" : "13.8",
+  "notes" : "value within 30% of aspirational goal; 1 of 9 facilities meet aspirational goal; ",
+  "avg" : "13.3"
+}
+, {
+  "trend" : "0",
+  "measure" : "Efficiency - All cause 30-day unadjusted readmission rate",
+  "hilo" : "lower",
+  "decs" : "1",
+  "location" : "VISN 08",
+  "score" : "1",
+  "type" : "outcomes",
+  "goal" : "11",
+  "visn" : "8",
+  "facility" : "0",
+  "value" : "15.5",
+  "notes" : "value more than 30% away from aspirational goal; 0 of 7 facilities meet aspirational goal; ",
+  "avg" : "13.3"
+}
+, {
+  "trend" : "0",
+  "measure" : "Efficiency - All cause 30-day unadjusted readmission rate",
+  "hilo" : "lower",
+  "decs" : "1",
+  "location" : "VISN 09",
+  "score" : "2",
+  "type" : "outcomes",
+  "goal" : "11",
+  "visn" : "9",
+  "facility" : "0",
+  "value" : "13.4",
+  "notes" : "value within 30% of aspirational goal; 0 of 7 facilities meet aspirational goal; ",
+  "avg" : "13.3"
+}
+ ]

@@ -1,0 +1,154 @@
+count_score,SCORE,MEASURE
+49,0,Effectiveness - Composite acute myocardial infarction (AMI)
+1,3,Effectiveness - Composite acute myocardial infarction (AMI)
+59,4,Effectiveness - Composite acute myocardial infarction (AMI)
+15,5,Effectiveness - Composite acute myocardial infarction (AMI)
+1,0,Effectiveness - Composite behavioral health screening
+84,4,Effectiveness - Composite behavioral health screening
+39,5,Effectiveness - Composite behavioral health screening
+19,0,Effectiveness - Composite community acquired pneumonia (CAP)
+76,4,Effectiveness - Composite community acquired pneumonia (CAP)
+29,5,Effectiveness - Composite community acquired pneumonia (CAP)
+17,0,Effectiveness - Composite heart failure
+1,3,Effectiveness - Composite heart failure
+75,4,Effectiveness - Composite heart failure
+31,5,Effectiveness - Composite heart failure
+1,0,Effectiveness - Composite tobacco
+10,3,Effectiveness - Composite tobacco
+102,4,Effectiveness - Composite tobacco
+11,5,Effectiveness - Composite tobacco
+1,0,Effectiveness - Diabetes - Blood pressure less than 140/90 (dm)
+25,3,Effectiveness - Diabetes - Blood pressure less than 140/90 (dm)
+77,4,Effectiveness - Diabetes - Blood pressure less than 140/90 (dm)
+21,5,Effectiveness - Diabetes - Blood pressure less than 140/90 (dm)
+1,0,Effectiveness - Diabetes - Composite diabetes
+12,3,Effectiveness - Diabetes - Composite diabetes
+111,4,Effectiveness - Diabetes - Composite diabetes
+1,0,Effectiveness - Diabetes - HbA1 GT 9 or not done in past year
+41,3,Effectiveness - Diabetes - HbA1 GT 9 or not done in past year
+78,4,Effectiveness - Diabetes - HbA1 GT 9 or not done in past year
+4,5,Effectiveness - Diabetes - HbA1 GT 9 or not done in past year
+1,0,Effectiveness - Diabetes - LDL-C less than 100 (diabetes)
+123,5,Effectiveness - Diabetes - LDL-C less than 100 (diabetes)
+1,0,Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN)
+1,2,Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN)
+39,3,Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN)
+75,4,Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN)
+8,5,Effectiveness - Ischemic heart - Blood pressure less than 140/90 (HTN)
+2,0,Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx)
+122,5,Effectiveness - Ischemic heart - LDL-C less than 100 (vascular dx)
+2,0,Effectiveness - Ischemic heart - LDL-C measured (vascular dx)
+81,4,Effectiveness - Ischemic heart - LDL-C measured (vascular dx)
+41,5,Effectiveness - Ischemic heart - LDL-C measured (vascular dx)
+14,0,Effectiveness - Mortality Outcomes - AMI RSMR (see definition)
+110,5,Effectiveness - Mortality Outcomes - AMI RSMR (see definition)
+13,0,Effectiveness - Mortality Outcomes - CHF RSMR
+7,1,Effectiveness - Mortality Outcomes - CHF RSMR
+5,2,Effectiveness - Mortality Outcomes - CHF RSMR
+10,3,Effectiveness - Mortality Outcomes - CHF RSMR
+29,4,Effectiveness - Mortality Outcomes - CHF RSMR
+60,5,Effectiveness - Mortality Outcomes - CHF RSMR
+13,0,Effectiveness - Mortality Outcomes - Pneumonia RSMR
+1,2,Effectiveness - Mortality Outcomes - Pneumonia RSMR
+7,3,Effectiveness - Mortality Outcomes - Pneumonia RSMR
+15,4,Effectiveness - Mortality Outcomes - Pneumonia RSMR
+88,5,Effectiveness - Mortality Outcomes - Pneumonia RSMR
+1,0,Effectiveness - Prevention - Obese patients offered weight mgmt
+1,2,Effectiveness - Prevention - Obese patients offered weight mgmt
+13,3,Effectiveness - Prevention - Obese patients offered weight mgmt
+100,4,Effectiveness - Prevention - Obese patients offered weight mgmt
+9,5,Effectiveness - Prevention - Obese patients offered weight mgmt
+1,0,Effectiveness - Prevention - Pneumococcal pneumonia immunization
+11,3,Effectiveness - Prevention - Pneumococcal pneumonia immunization
+112,4,Effectiveness - Prevention - Pneumococcal pneumonia immunization
+1,0,Effectiveness - Prevention - Screening for colorectal cancer
+1,1,Effectiveness - Prevention - Screening for colorectal cancer
+28,2,Effectiveness - Prevention - Screening for colorectal cancer
+91,3,Effectiveness - Prevention - Screening for colorectal cancer
+3,4,Effectiveness - Prevention - Screening for colorectal cancer
+124,0,Effectiveness - Prevention - Women screened for breast cancer
+124,0,Effectiveness - Prevention - Women screened for cervical cancer
+13,0,Efficiency - All cause 30-day unadjusted readmission rate
+29,1,Efficiency - All cause 30-day unadjusted readmission rate
+23,2,Efficiency - All cause 30-day unadjusted readmission rate
+16,3,Efficiency - All cause 30-day unadjusted readmission rate
+21,4,Efficiency - All cause 30-day unadjusted readmission rate
+22,5,Efficiency - All cause 30-day unadjusted readmission rate
+124,0,Efficiency - Ambulatory Care Sensitive Conditions (ACSC)
+124,0,Equity - Clinical Composite:White-Nonwhite - Behavioral Health
+124,0,Equity - Clinical Composite:White-Nonwhite - Diabetes
+124,0,Equity - Clinical Composite:White-Nonwhite - Ischemic Heart
+124,0,Equity - Clinical Composite:White-Nonwhite - Prevention
+124,0,Equity - Clinical Composite:White-Nonwhite - Tobacco
+124,0,Equity - Inpatient SHEP: Male-Female - Cleanliness of Hospital Environment
+124,0,Equity - Inpatient SHEP: Male-Female - Communication About Medication
+124,0,Equity - Inpatient SHEP: Male-Female - Communication with Doctors
+124,0,Equity - Inpatient SHEP: Male-Female - Communication with Nurses
+124,0,Equity - Inpatient SHEP: Male-Female - Discharge Information
+124,0,Equity - Inpatient SHEP: Male-Female - Overall Rating of Hospital
+124,0,Equity - Inpatient SHEP: Male-Female - Pain Management
+124,0,Equity - Inpatient SHEP: Male-Female - Quietness of the Hospital Environment
+124,0,Equity - Inpatient SHEP: Male-Female - Responsiveness of Hospital Staff
+124,0,Equity - Inpatient SHEP: Male-Female - Willingness to Recommend
+124,0,Equity - Inpatient SHEP: White-Nonwhite - Cleanliness of the Hospital Environment
+124,0,Equity - Inpatient SHEP: White-Nonwhite - Communication About Medication
+124,0,Equity - Inpatient SHEP: White-Nonwhite - Communication with Doctors
+124,0,Equity - Inpatient SHEP: White-Nonwhite - Communication with Nurses
+124,0,Equity - Inpatient SHEP: White-Nonwhite - Discharge Information
+124,0,Equity - Inpatient SHEP: White-Nonwhite - Overall Rating of Hospital
+124,0,Equity - Inpatient SHEP: White-Nonwhite - Pain Management
+124,0,Equity - Inpatient SHEP: White-Nonwhite - Quietness of the Hospital Environment
+124,0,Equity - Inpatient SHEP: White-Nonwhite - Responsiveness of Hospital Staff
+124,0,Equity - Inpatient SHEP: White-Nonwhite - Willingness to Recommend
+124,0,Equity - Outpatient SHEP: Male-Female - Getting Care Quickly
+124,0,Equity - Outpatient SHEP: Male-Female - Getting Needed Care
+124,0,Equity - Outpatient SHEP: Male-Female - How Well Doctors/Nurses Communicate
+124,0,Equity - Outpatient SHEP: Male-Female - Outpatient Shared Decision Making
+124,0,Equity - Outpatient SHEP: Male-Female - Overall Rating of Personal Doctor/Nurse
+124,0,Equity - Outpatient SHEP: Male-Female - Overall Rating of VA Healthcare
+124,0,Equity - Outpatient SHEP: Male-Female - Overall Rating of VA Specialist
+124,0,Equity - Outpatient SHEP: White-Nonwhite - Getting Care Quickly
+124,0,Equity - Outpatient SHEP: White-Nonwhite - Getting Needed Care
+124,0,Equity - Outpatient SHEP: White-Nonwhite - How Well Doctors/Nurses Communicate
+124,0,Equity - Outpatient SHEP: White-Nonwhite - Outpatient Shared Decision Making
+124,0,Equity - Outpatient SHEP: White-Nonwhite - Overall Rating of Personal Doctor/Nurse
+124,0,Equity - Outpatient SHEP: White-Nonwhite - Overall Rating of VA Healthcare
+124,0,Equity - Outpatient SHEP: White-Nonwhite - Overall Rating of VA Specialist
+124,0,Patient-Centeredness - Inpatient SHEP - Cleanliness of Hospital Environment
+124,0,Patient-Centeredness - Inpatient SHEP - Communication About Medication
+124,0,Patient-Centeredness - Inpatient SHEP - Communication with Doctors
+124,0,Patient-Centeredness - Inpatient SHEP - Communication with Nurses
+124,0,Patient-Centeredness - Inpatient SHEP - Discharge Information
+124,0,Patient-Centeredness - Inpatient SHEP - Overall Rating of Hospital Stay
+124,0,Patient-Centeredness - Inpatient SHEP - Pain Management
+124,0,Patient-Centeredness - Inpatient SHEP - Quietness of the Hospital Environment
+124,0,Patient-Centeredness - Inpatient SHEP - Willingness to Recommend
+124,0,Patient-Centeredness - Outpatient SHEP - How Well Docs/Nurses Communicate
+124,0,Patient-Centeredness - Outpatient SHEP - Outpatient Shared Decision Making
+124,0,Patient-Centeredness - Outpatient SHEP - Overall Rating of Healthcare in last 12 Months
+124,0,Patient-Centeredness - Outpatient SHEP - Overall Rating of Personal Doc/Nurse
+124,0,Patient-Centeredness - Outpatient SHEP - Overall Rating of VA Specialist
+57,0,Safety - Healthcare associated infections - CLAB infection rate
+5,1,Safety - Healthcare associated infections - CLAB infection rate
+5,2,Safety - Healthcare associated infections - CLAB infection rate
+23,3,Safety - Healthcare associated infections - CLAB infection rate
+21,4,Safety - Healthcare associated infections - CLAB infection rate
+13,5,Safety - Healthcare associated infections - CLAB infection rate
+15,0,Safety - Healthcare associated infections - MRSA infection rate
+2,3,Safety - Healthcare associated infections - MRSA infection rate
+80,4,Safety - Healthcare associated infections - MRSA infection rate
+27,5,Safety - Healthcare associated infections - MRSA infection rate
+60,0,Safety - Healthcare associated infections - VAP infection rate
+11,1,Safety - Healthcare associated infections - VAP infection rate
+9,2,Safety - Healthcare associated infections - VAP infection rate
+15,3,Safety - Healthcare associated infections - VAP infection rate
+15,4,Safety - Healthcare associated infections - VAP infection rate
+14,5,Safety - Healthcare associated infections - VAP infection rate
+124,0,Safety - Hospital acquired pressure ulcer rate
+124,0,Safety - Incorrect Surgery
+33,0,Safety - Surgical Care Improvement Project
+53,4,Safety - Surgical Care Improvement Project
+38,5,Safety - Surgical Care Improvement Project
+124,0,Timeliness - Inpatient responsiveness
+124,0,Timeliness - Outpatient responsiveness - Getting needed outpatient care
+124,0,Timeliness - Outpatient responsiveness - Getting outpatient care quickly

@@ -1,0 +1,123 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Veterans Affairs ASPIRE trends</title>
+    <link type="text/css" rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+    <link type="text/css" rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
+    <link type="text/css" rel="stylesheet" href="bower_components/c3/c3.min.css" />
+    <link type="text/css" rel="stylesheet" href="bower_components/sortable/css/sortable-theme-bootstrap.css" />
+</head>
+<body>
+<div class="jumbotron">
+    <div class="container">
+        <h1>Veteran Affairs</h1>
+        <h2>ASPIRE Ratings</h2>
+    </div>
+</div>
+    <div class="container">
+        <div class="row">
+            <h2>History</h2>
+            <p>ASPIRE is an open-data initiative by the Department of Veteran's Affairs started in 2010. It provides the results of a regular audit of various goals that the VA has for each of it's medical providers across the United States.</p>
+            <p>To help normalize the data, each goal scored against a percentage from how away it is from reaching their target goal.</p>
+            <table class="table">
+                <thead>
+                    <th>Score</th>
+                    <th>Relationship to Goal</th>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>5</td>
+                    <td>Meets or exceeds goal</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Less than 10% from goal</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>11%-20% from goal</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>More than 20% difference</td>
+                </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>More than 30% difference</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="row">
+            <h2>By The Numbers</h2>
+            <div class="col-md-4">
+                <div class="well" style="min-height: 150px;">
+                    <h3>169 Locations</h3>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="well" style="min-height: 150px;">
+                    <h3>23 Veteran Integrated Service Networks (VISN)</h3>
+                    <p>Each location is part of a VISN.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="well" style="min-height: 150px;">
+                    <h3>84 distinct measurements</h3>
+                </div>
+            </div>
+        </div>
+            <h2>Low Performing Measurements</h2>
+            <p>What makes this dataset valuable is that it provides a way to help discover which VISN's need the most attention to improve the quality of their care, as well as finding any cross-cutting issues within the system.</p>
+            <h3 style="text-align: center;">Low Performing Measurements By VISN</h3>
+            <div id="lowscorebyvisn-chart"></div>
+            <h2>List of VISN-Wide Measurements More Than 20 Percent From Their Goal</h2>
+            <p>In this table, you can sort each item</p>
+            <div class="table-responsive" style="max-height: 400px;">
+                <table id="lowscore-table" data-sortable class="table sortable-theme-bootstrap">
+                    <thead>
+                    <tr>
+                        <th>Measure</th>
+                        <th>Location</th>
+                        <th>Year</th>
+                        <th>Score</th>
+                    </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+
+        <div>
+            <h2>Aspire Scores by Facility ID: 2010 - Q4</h2>
+            <iframe width="100%" title="Scores by Facilities - 2010" height="808px" src="https://opendata.socrata.com/w/awzp-jxm7/y34g-bnf3?cur=4b1foFsOBiE&from=root" frameborder="0"scrolling="no"><a href="https://opendata.socrata.com/dataset/Scores-by-Facilities-2010/awzp-jxm7" title="Scores by Facilities - 2010" target="_blank">Scores by Facilities - 2010</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
+        <div>
+            <h2>Aspire Scores by Facility ID: 2011 - Q4</h2>
+            <iframe width="100%" title="Scores by Facilities - 2011" height="808px" src="https://opendata.socrata.com/w/px79-f3aa/y34g-bnf3?cur=sEgMRIQL7-V&from=root" frameborder="0"scrolling="no"><a href="https://opendata.socrata.com/dataset/Scores-by-Facilities-2011/px79-f3aa" title="Scores by Facilities - 2011" target="_blank">Scores by Facilities - 2011</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
+        <div>
+            <h2>Aspire Scores by Facility ID: 2012 - Q4</h2>
+            <iframe width="100%" title="Scores by Facilities - 2012" height="808px" src="https://opendata.socrata.com/w/yah3-gded/y34g-bnf3?cur=G4l6bFIkiCI&from=root" frameborder="0"scrolling="no"><a href="https://opendata.socrata.com/dataset/Scores-by-Facilities-2012/yah3-gded" title="Scores by Facilities - 2012" target="_blank">Scores by Facilities - 2012</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
+        <div>
+            <h2>Aspire Scores by Facility ID: 2013 - Q4</h2>
+            <iframe width="100%" title="Scores by Facilities - 2013" height="808px" src="https://opendata.socrata.com/w/spws-9byb/y34g-bnf3?cur=pr0Xzen8HAZ&from=root" frameborder="0"scrolling="no"><a href="https://opendata.socrata.com/dataset/Scores-by-Facilities-2013/spws-9byb" title="Scores by Facilities - 2013" target="_blank">Scores by Facilities - 2013</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
+        <div>
+            <h2>Aspire Scores by Facility ID: 2014 - Q3</h2>
+            <iframe width="100%" title="Scores by Facilities - 2014" height="808px" src="https://opendata.socrata.com/w/qruu-4p9p/y34g-bnf3?cur=I7fTPpS2cKF&from=root" frameborder="0"scrolling="no"><a href="https://opendata.socrata.com/dataset/Scores-by-Facilities-2014/qruu-4p9p" title="Scores by Facilities - 2014" target="_blank">Scores by Facilities - 2014</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
+        <div class="row">
+            <h2>Notes</h2>
+            <h3>Raw Data on Socrata</h3>
+            <ul>
+                <li><a href="https://opendata.socrata.com/dataset/Aspire-2010-Q4/qw4r-i7w3">ASPIRE DATA 2010 - Q4</a></li>
+                <li><a href="https://opendata.socrata.com/dataset/Aspire-2011-Q4/gkin-xvh9">ASPIRE DATA 2011 - Q4</a></li>
+                <li><a href="https://opendata.socrata.com/dataset/Aspire-2012-Q4/6ts6-shqh">ASPIRE DATA 2012 - Q4</a></li>
+                <li><a href="https://opendata.socrata.com/dataset/Aspire-2013-Q4/vjbx-zc54">ASPIRE DATA 2013 - Q4</a></li>
+                <li><a href="https://opendata.socrata.com/dataset/Aspire-2014-Q3/m4kz-nqx2">ASPIRE DATA 2014 - Q3</a></li>
+            </ul>
+        </div>
+    </div>
+    <script type="text/javascript" src="bower_components/sortable/js/sortable.min.js"></script>
+    <script type="text/javascript" src="bower_components/lodash/lodash.min.js"></script>
+    <script type="text/javascript" src="bower_components/c3/c3.min.js"></script>
+    <script type="text/javascript" src="bower_components/d3/d3.min.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+</body>
+</html>

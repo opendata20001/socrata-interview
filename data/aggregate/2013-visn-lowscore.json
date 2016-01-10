@@ -1,0 +1,46 @@
+[ {
+  "trend" : "0",
+  "measure" : "Efficiency - All cause 30-day unadjusted readmission rate",
+  "hilo" : "lower",
+  "decs" : "1",
+  "location" : "VISN 03",
+  "score" : "1",
+  "type" : "outcomes",
+  "goal" : "11",
+  "visn" : "3",
+  "facility" : "0",
+  "value" : "14.5",
+  "notes" : "value more than 30% away from aspirational goal; 0 of 6 facilities meet aspirational goal; ",
+  "avg" : "13.4"
+}
+, {
+  "trend" : "0",
+  "measure" : "Efficiency - All cause 30-day unadjusted readmission rate",
+  "hilo" : "lower",
+  "decs" : "1",
+  "location" : "VISN 12",
+  "score" : "1",
+  "type" : "outcomes",
+  "goal" : "11",
+  "visn" : "12",
+  "facility" : "0",
+  "value" : "14.9",
+  "notes" : "value more than 30% away from aspirational goal; 0 of 7 facilities meet aspirational goal; ",
+  "avg" : "13.4"
+}
+, {
+  "trend" : "0",
+  "measure" : "Efficiency - All cause 30-day unadjusted readmission rate",
+  "hilo" : "lower",
+  "decs" : "1",
+  "location" : "VISN 08",
+  "score" : "1",
+  "type" : "outcomes",
+  "goal" : "11",
+  "visn" : "8",
+  "facility" : "0",
+  "value" : "14.8",
+  "notes" : "value more than 30% away from aspirational goal; 0 of 7 facilities meet aspirational goal; ",
+  "avg" : "13.4"
+}
+ ]
